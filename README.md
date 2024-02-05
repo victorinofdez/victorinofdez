@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/victorinofdez/victorinofdez/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/victorinofdez/victorinofdez/blob/main/snake.yml)https://github.com/victorinofdez/victorinofdez/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
