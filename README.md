@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software developer in Malaga 🏰<br><br>🌐 Currently working with Java, JavaScript, PHP, SQL and frameworks like React, Next.js and Laravel. Actively learning Spring Boot to expand my experience.<br><br>🌟 2024 Goal: To enhance my skills, tackle exciting projects, and make impactful contributions on GitHub.</p>
+👨‍💻 Software developer in Malaga 🏰<br>🌐 Currently working with Java, JavaScript, PHP, SQL and frameworks like React, Next.js and Laravel.<br>🌱 Actively learning Spring Boot to expand my experience.<br>🌟 2024 Goal: To enhance my skills, tackle exciting projects, and make impactful contributions on GitHub.
 
 ###
 
@@ -81,13 +81,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorinofdez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorinofdez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
