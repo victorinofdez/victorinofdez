@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Web developer student in Granada 🏰<br><br>🌐 Currently expanding my knowledge in JavaScript, JQuery, React and PHP with Laravel and Web Design.<br><br>🔍 Eagerly looking for opportunities as a frontend developer or Java programmer.<br><br>🌟 2024 Goal: To actively contribute on Github and continue to develop Personal Projects.</p>
+<p align="left">👨‍💻 Software developer in Malaga 🏰<br><br>🌐 Currently working with Java, JavaScript, PHP, SQL and frameworks like React, Next.js and Laravel. Actively learning Spring Boot to expand my experience.<br><br>🌟 2024 Goal: To enhance my skills, tackle exciting projects, and make impactful contributions on GitHub.</p>
 
 ###
 
