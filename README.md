@@ -8,7 +8,7 @@
 
 ###
 
-👨‍💻 Software developer in Granada 🏰<br>🌐 Experienced working with Java, Spring Boot, JavaScript, PHP, SQL, and frameworks such as React, Next.js, and Laravel.<br>🌟 Backend Developer specialized in Java and Spring Boot, focused on designing and implementing REST APIs, microservices, and applying Hexagonal Architecture principles.<br>🌱 Currently deepening my knowledge in Spring Boot, modern backend environments, microservices, and clean architecture practices.<br>
+👨‍💻 Software developer in Granada 🏰 <br> 🌐 Experienced working with Java, Spring Boot, JavaScript, PHP, SQL, and frameworks such as React, Next.js, and Laravel. <br> 🌟 Backend Developer specialized in Java and Spring Boot, focused on designing and implementing REST APIs, microservices, and applying Hexagonal Architecture principles. <br> 🌱 Currently deepening my knowledge in Spring Boot, modern backend environments, microservices, and clean architecture practices. <br>
 
 ###
 
