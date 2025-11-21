@@ -7,11 +7,11 @@
 <h2 align="center">Hello!  My name is Victorino Fernández  👋</h2>
 
 ###
-👨‍💻<b>Software Developer</b> based in Granada<br>
-🌐Experienced with <b>Java, Spring Boot, JavaScript, PHP, SQL</b> and frameworks like <b>React, Next.js, and Laravel</b>.<br>
-🚀<b>Backend Developer specialized in Java and Spring Boot</b>, focused on designing and implementing <b>REST APIs</b>, microservices, and applying <b>Hexagonal Architecture</b> principles.<br>
-🌱Currently expanding my knowledge in <b>Spring Boot</b>, microservices, and clean architecture.<br>
-💡Experience in web development with <b>PHP and Laravel</b>, building robust and scalable applications.<br>
+👨‍💻 Software Developer based in Granada
+🌐 Experienced working with Java, Spring Boot, JavaScript, PHP, SQL, and frameworks such as React, Next.js, and Laravel.
+🚀 Backend Developer specialized in Java and Spring Boot, focused on designing and implementing REST APIs, microservices, and applying Hexagonal Architecture principles.
+🌱 Currently deepening my knowledge in Spring Boot, modern backend environments, microservices, and clean architecture practices.
+💡 I also have solid experience in web development with PHP and Laravel, building robust and scalable applications.
 ###
 
 <h2 align="left">Frontend Development</h2>
